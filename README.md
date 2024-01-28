@@ -32,6 +32,6 @@
     ],
 ```
 
-2. Run `composer req goncziakos/sylius-barion-payment-gateway`
+2. Run `composer req petermagyar/sylius-barion-payment-gateway`
 
 3. Add new Barion payment on admin
