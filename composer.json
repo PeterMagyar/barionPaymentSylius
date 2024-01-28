@@ -1,5 +1,5 @@
 {
-    "name": "goncziakos/sylius-barion-payment-gateway",
+    "name": "petermagyar/sylius-barion-payment-gateway",
     "type": "sylius-plugin",
     "keywords": [
         "sylius",
